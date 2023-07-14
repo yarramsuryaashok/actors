@@ -1,0 +1,88 @@
+body{
+    background-image: url("w.jpg");
+}
+
+#machan{
+
+    background-color:  gray;
+    height: 720px;
+    width: 75%;
+    
+    margin-left: 150px;
+    border-radius: 30px;
+}
+#machan:hover{
+
+    background-color: rgb(25, 225, 251);
+    color: red;
+font-size: 20px;    
+    margin-left: 150px;
+    border-radius: 50px;
+}
+h1{
+    background-color: rgb(244, 32, 32);
+    border-radius: 20px;
+    height: 50px;
+padding-top: 10px;
+    border:5px solid black ;
+    width: 60%;
+    color:silver;
+   text-align: center;
+    margin-left: 280px;
+}
+
+h1:hover{
+    background-color:black;
+    border-radius: 20px;
+    height: 50px;
+padding-top: 10px;
+font-size:50px ;
+    border:5px solid white ;
+    width: 60%;
+    color:white;
+   text-align: center;
+    margin-left: 280px;
+}
+
+a{
+padding: 39px;
+}
+#do{
+ background-color: black;
+color: beige;
+padding:20px;
+font-weight: bold;
+margin-left: 90px;
+ 
+}
+ #do:hover{
+    background-color: white;
+   color: black;
+   
+}
+b{
+    margin-left: 135px;
+    color: white;
+    padding: 20px;
+    background-color: black;
+}
+b:hover{
+    margin-left: 210px;
+    color:black;
+    padding: 20px;
+    background-color:white;
+}
+i{
+    margin-left: 190px;
+    color: white;
+    padding: 20px;
+    font-weight: bold;
+    background-color: black;
+}
+i:hover {
+    margin-left: 190px;
+    color:black;
+    padding: 20px;
+    font-weight: bold;
+    background-color:white;
+}
